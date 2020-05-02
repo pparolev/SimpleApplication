@@ -1,3 +1,5 @@
+package  com.umfu;
+
 public class Program {
     public static void main(String[] args) {
 
