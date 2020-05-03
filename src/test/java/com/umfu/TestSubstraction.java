@@ -9,6 +9,6 @@ public class TestSubstraction {
     public void TestSubstract() {
         MessageBuilder mb = new MessageBuilder();
 
-        assertEquals(2, mb.Sum(2, 2));
+        assertEquals(4, mb.Sum(2, 2));
     }
 }
