@@ -58,6 +58,9 @@
                 <version>0.7.9</version>
                 <configuration>
                     <skip>false</skip>
+                    <excludes>
+                        <exclude>com/picklesolutions/Program.class</exclude>
+                    </excludes>
                     <check/>
                     <rules>
                         <rule>
