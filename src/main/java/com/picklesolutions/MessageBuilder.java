@@ -1,4 +1,4 @@
-package com.umfu;
+package com.picklesolutions;
 
 public class MessageBuilder {
 

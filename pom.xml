@@ -41,7 +41,7 @@
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
                             <mainClass>
-                                com.umfu.Program
+                                com.picklesolutions.Program
                             </mainClass>
                         </manifest>
                     </archive>

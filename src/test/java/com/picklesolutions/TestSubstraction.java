@@ -1,14 +1,14 @@
-package com.umfu;
+package com.picklesolutions;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class TestAddition {
+public class TestSubstraction {
 
     @Test
-    public void TestAdd() {
+    public void TestSubstract() {
         MessageBuilder mb = new MessageBuilder();
 
-        assertEquals(10, mb.Sum(5, 5));
+        assertEquals(4, mb.Sum(2, 2));
     }
 }
