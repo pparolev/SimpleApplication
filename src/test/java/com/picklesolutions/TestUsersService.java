@@ -9,6 +9,6 @@ public class TestUsersService {
     public void testCount() {
         UsersService usersService = new UsersService();
 
-        assertEquals(110, usersService.count());
+        assertEquals(10, usersService.count());
     }
 }
