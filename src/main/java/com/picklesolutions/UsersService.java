@@ -8,4 +8,7 @@ public class UsersService {
     public Boolean AuthenticateUser(String username, String password) {
         return username.equals("admin") && password.equals("adminpass");
     }
+	public int cc() {
+		return 23;
+	}
 }
